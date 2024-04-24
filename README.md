@@ -69,9 +69,21 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature-name).
 Create a new Pull Request.
 License
+
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
 Have any questions or suggestions? Feel free to contact us at your- **aravindsajan8.com**
 
+## OUTPUT
+
+1.
+![Screenshot 2024-04-25 002754](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/39bc8c90-18da-4586-bbc4-8208f3b06049)
+
+2.
+![Screenshot 2024-04-25 002842](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/23abb922-5e8e-4956-a214-cf888616cba2)
+
+3.
+![Screenshot 2024-04-25 003018](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/8d9439cd-bb3a-4c55-a378-1f4d29bd3d69)
