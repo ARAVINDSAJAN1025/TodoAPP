@@ -58,7 +58,7 @@ Open your browser and navigate to http://localhost:3000 to use TodoAPP.
 Screenshots
 
 
-**Contributing**
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to TodoAPP, please follow these guidelines:
 
@@ -71,7 +71,7 @@ Create a new Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Contact**
+## Contact
 
-Have any questions or suggestions? Feel free to contact us at your-aravindsajan8.com.
+Have any questions or suggestions? Feel free to contact us at your- **aravindsajan8.com**
 
