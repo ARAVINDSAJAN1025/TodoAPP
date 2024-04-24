@@ -45,10 +45,10 @@ Copy code
 ![Screenshot 2024-04-25 000701](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/bf2b5249-3762-4c4f-bf45-73b8c10a05c7)
 
 npm install
-4. **Start the application:**
+4.
+**Start the application:**
 
 bash
-
 Copy code
 
 ![Screenshot 2024-04-25 000722](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/5550ff12-0837-4e02-961e-ee6bfc8f5ea1)
@@ -59,6 +59,7 @@ Screenshots
 
 
 **Contributing**
+
 Contributions are welcome! If you'd like to contribute to TodoAPP, please follow these guidelines:
 
 Fork the repository.
@@ -71,5 +72,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Contact**
+
 Have any questions or suggestions? Feel free to contact us at your-aravindsajan8.com.
 
