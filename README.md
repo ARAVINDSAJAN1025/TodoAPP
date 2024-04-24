@@ -29,13 +29,16 @@ Copy code
 
 git clone https://github.com/ARAVINDSAJAN1025/TodoAPP.git
 2. **Navigate to the project directory:**
+
 bash
 Copy code
 
 ![Screenshot 2024-04-25 000645](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/3db338c7-d952-4daf-bb57-f030da4ce678)
 
 cd TodoAPP
+
 3. **Install dependencies:**
+
 bash
 Copy code
 
@@ -43,6 +46,7 @@ Copy code
 
 npm install
 4. **Start the application:**
+
 bash
 
 Copy code
