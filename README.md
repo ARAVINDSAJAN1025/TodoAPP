@@ -15,21 +15,25 @@ To get started with TodoAPP, follow these steps:
 Clone the repository:
 bash
 Copy code
+
 ![Screenshot 2024-04-25 000624](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/781518d7-447f-42d9-96cc-ca065dd818ab)
 git clone https://github.com/ARAVINDSAJAN1025/TodoAPP.git
 Navigate to the project directory:
 bash
 Copy code
+
 ![Screenshot 2024-04-25 000645](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/3db338c7-d952-4daf-bb57-f030da4ce678)
 cd TodoAPP
 Install dependencies:
 bash
 Copy code
+
 ![Screenshot 2024-04-25 000701](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/bf2b5249-3762-4c4f-bf45-73b8c10a05c7)
 
 npm install
 Start the application:
 bash
+
 Copy code
 ![Screenshot 2024-04-25 000722](https://github.com/ARAVINDSAJAN1025/TodoAPP/assets/146984942/5550ff12-0837-4e02-961e-ee6bfc8f5ea1)
 
